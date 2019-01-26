@@ -1,0 +1,50 @@
+.container-drag {
+	background: skyblue;
+	height: 1000px;
+}
+
+.wip {
+
+	text-align: center;
+	height: 100px;
+	flex-wrap: wrap;
+	display: flex;
+}
+
+.header {
+	background: orange;
+	text-align: center;
+	align-content: center;
+
+}
+
+.task-header {
+	background: black;
+}
+
+
+.hey {
+	background:skyblue;
+	background-image: url("../../components/Images/jar.png");
+	background-repeat: no-repeat;
+	background-position: top;
+	height: 1000px;
+}
+
+ .droppable {
+
+	/* background: blue; */
+	margin-top: 170px;
+	margin-left: 1000;
+	height: 200px;
+	width: 200px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.draggable {
+	background-image: url("../../components/Images/paperclip.png");
+	background-repeat: no-repeat;
+	height: 60px;
+	width: 30px;
+}

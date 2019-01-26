@@ -1,0 +1,19 @@
+
+	
+	h1 {
+	text-align: center;
+	color: black;
+
+	}
+
+ul {
+	text-align: center;
+	width: 100;
+	text-decoration: none;
+	color: white;
+}
+
+.body {
+	background-image: url("../../components/Images/furniture-731449_1920.jpg");
+	background-repeat: no-repeat;
+}
